@@ -63,7 +63,7 @@ Press `escape`, `esc`
 
 ### Explore the current directory
 
-`:Explore` or `:e ./`
+`:E` or `:Explore`
 
 ### Open a new tab in directory explore mode
 
@@ -88,3 +88,4 @@ Press `escape`, `esc`
 ### Go back to the previous buffer (useful to get back to directory mode after closing a file)
 
 `ctrl` + `o`
+
