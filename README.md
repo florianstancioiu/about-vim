@@ -1,7 +1,8 @@
 # Learning VIM
 
-Here is a list of commands I learned while coding with VIM 
-These are the commands that I find most useful
+Here is a list of commands I learned while coding with VIM
+
+These are the commands I find most useful
 
 ### Enter write mode
 
