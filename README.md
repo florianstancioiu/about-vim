@@ -80,3 +80,11 @@ Press `escape`, `esc`
 ### Move to the previous tab
 
 `:tabp`
+
+### Change between split screens
+
+`ctrl` + `w`
+
+### Go back to the previous buffer (useful to get back to directory mode after closing a file)
+
+`ctrl` + `o`
