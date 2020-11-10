@@ -35,15 +35,31 @@ Press `escape`, `esc`
 
 ### Copy lines (while in visual mode)
 
-`:y`
+`y`
 
 ### Cut lines (while in visual mode)
 
-`:c`
+`c`
 
 ### Paste lines 
 
-`:p`
+`p`
+
+### Double (copy and paste) the current line
+
+`yy` and `p`
+
+### Delete the current line
+
+`dd`
+
+### Indent to the right (it also works with the visual mode)
+
+`>>`
+
+### Indent to the left (it also works with the visual mode)
+
+`<<`
 
 ### Explore the current directory
 
