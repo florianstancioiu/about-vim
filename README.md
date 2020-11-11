@@ -99,7 +99,7 @@ Press `escape`, `esc`
 
 ### Search a string
 
-`:/string-to-search
+`:/string-to-search`
 
 ### Go to the next occurence of the searched string
 
