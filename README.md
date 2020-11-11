@@ -81,6 +81,14 @@ Press `escape`, `esc`
 
 `:tabp`
 
+### Cycle forward through tabs using keys
+
+`g` + `t`
+
+### Cycle backwards through tabs using keys
+
+`g` + `T`
+
 ### Change between split screens
 
 `ctrl` + `w`
