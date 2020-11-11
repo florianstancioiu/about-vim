@@ -89,3 +89,18 @@ Press `escape`, `esc`
 
 `ctrl` + `o`
 
+### Search a string
+
+`:/string-to-search
+
+### Go to the next occurence of the searched string
+
+`n`
+
+### Go to the previous occurence of the searched string
+
+`N`
+
+### Search and replace a string with another string
+
+`:%s/string/another-string/g`
