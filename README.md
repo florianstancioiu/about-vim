@@ -10,7 +10,7 @@ These are the commands I find most useful
 
 ### Exit write mode
 
-Press `escape`, `esc`
+`esc`
 
 ### Write file to disk
 
