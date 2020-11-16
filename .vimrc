@@ -9,3 +9,6 @@ set number
 
 " auto change dir for creating files
 set autochdir
+
+" make left and right keys switch lines
+set whichwrap+=<,>,[,]
