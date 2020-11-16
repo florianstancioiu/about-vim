@@ -89,10 +89,6 @@ These are the commands I find most useful
 
 `g` + `T`
 
-### Change between split screens
-
-`ctrl` + `w`
-
 ### Go back to the previous buffer (useful to get back to directory mode after closing a file)
 
 `ctrl` + `o`
@@ -112,3 +108,15 @@ These are the commands I find most useful
 ### Search and replace a string with another string
 
 `:%s/string/another-string/g`
+
+### Create horizontal split screen 
+
+`:sp` or `ctrl` + `w` + `s`
+
+### Create vertical split screen
+
+`:vsp` or `ctrl` + `w` + `v` 
+
+### Change between split screens
+
+`ctrl` + `w` + `w`
